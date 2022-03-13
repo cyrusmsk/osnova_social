@@ -1,0 +1,14 @@
+{
+  "api": {
+    "url": "https://api.tjournal.ru/v1.9/",
+    "tag_regex": "#\b.+?\b",
+    "token": "61ccad1c79da681791f0f872b43f8a9dc5af059ee6a794ab7cf0c5d79db47e7d"
+  },
+  "db": {
+    "host": "localhost",
+    "port": 5432,
+    "database": "dtf",
+    "user": "your_user",
+    "password": "your_password"
+  }
+}

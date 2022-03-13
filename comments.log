@@ -1,0 +1,783 @@
+WARNING:root:00:37:23: 500 Internal Server Error. Requests processed since last 500 error: 381
+WARNING:root:00:37:31: 500 Internal Server Error. Requests processed since last 500 error: 396
+WARNING:root:00:37:43: 429 Too Many Requests. Requests processed since last 429 error: 425. Wait for 60 seconds and repeat
+WARNING:root:00:39:04: 500 Internal Server Error. Requests processed since last 500 error: 471
+WARNING:root:00:39:25: 500 Internal Server Error. Requests processed since last 500 error: 518
+WARNING:root:00:39:35: 429 Too Many Requests. Requests processed since last 429 error: 116. Wait for 60 seconds and repeat
+WARNING:root:00:40:55: 429 Too Many Requests. Requests processed since last 429 error: 39. Wait for 60 seconds and repeat
+WARNING:root:00:42:44: 429 Too Many Requests. Requests processed since last 429 error: 91. Wait for 60 seconds and repeat
+WARNING:root:00:44:21: 500 Internal Server Error. Requests processed since last 500 error: 748
+WARNING:root:00:44:22: 429 Too Many Requests. Requests processed since last 429 error: 81. Wait for 60 seconds and repeat
+WARNING:root:00:46:02: 429 Too Many Requests. Requests processed since last 429 error: 83. Wait for 60 seconds and repeat
+WARNING:root:00:47:49: 429 Too Many Requests. Requests processed since last 429 error: 98. Wait for 60 seconds and repeat
+WARNING:root:00:49:19: 429 Too Many Requests. Requests processed since last 429 error: 67. Wait for 60 seconds and repeat
+WARNING:root:00:50:57: 429 Too Many Requests. Requests processed since last 429 error: 82. Wait for 60 seconds and repeat
+WARNING:root:00:52:40: 429 Too Many Requests. Requests processed since last 429 error: 85. Wait for 60 seconds and repeat
+WARNING:root:00:53:52: 500 Internal Server Error. Requests processed since last 500 error: 1192
+WARNING:root:00:54:06: 429 Too Many Requests. Requests processed since last 429 error: 56. Wait for 60 seconds and repeat
+WARNING:root:00:55:20: 429 Too Many Requests. Requests processed since last 429 error: 28. Wait for 60 seconds and repeat
+WARNING:root:00:56:36: 429 Too Many Requests. Requests processed since last 429 error: 31. Wait for 60 seconds and repeat
+WARNING:root:00:58:04: 429 Too Many Requests. Requests processed since last 429 error: 55. Wait for 60 seconds and repeat
+WARNING:root:00:59:14: 429 Too Many Requests. Requests processed since last 429 error: 17. Wait for 60 seconds and repeat
+WARNING:root:01:00:15: 429 Too Many Requests. Requests processed since last 429 error: 3. Wait for 60 seconds and repeat
+WARNING:root:01:02:14: 500 Internal Server Error. Requests processed since last 500 error: 1490
+WARNING:root:01:02:30: 429 Too Many Requests. Requests processed since last 429 error: 169. Wait for 60 seconds and repeat
+WARNING:root:01:03:47: 429 Too Many Requests. Requests processed since last 429 error: 31. Wait for 60 seconds and repeat
+WARNING:root:01:05:04: 429 Too Many Requests. Requests processed since last 429 error: 34. Wait for 60 seconds and repeat
+WARNING:root:01:06:42: 429 Too Many Requests. Requests processed since last 429 error: 76. Wait for 60 seconds and repeat
+WARNING:root:01:07:57: 429 Too Many Requests. Requests processed since last 429 error: 29. Wait for 60 seconds and repeat
+WARNING:root:01:08:57: 500 Internal Server Error. Requests processed since last 500 error: 1696
+WARNING:root:01:09:11: 429 Too Many Requests. Requests processed since last 429 error: 29. Wait for 60 seconds and repeat
+WARNING:root:01:10:26: 429 Too Many Requests. Requests processed since last 429 error: 30. Wait for 60 seconds and repeat
+WARNING:root:01:12:15: 500 Internal Server Error. Requests processed since last 500 error: 1862
+WARNING:root:01:14:47: 429 Too Many Requests. Requests processed since last 429 error: 437. Wait for 60 seconds and repeat
+WARNING:root:01:16:16: 429 Too Many Requests. Requests processed since last 429 error: 63. Wait for 60 seconds and repeat
+WARNING:root:01:17:28: 500 Internal Server Error. Requests processed since last 500 error: 2281
+WARNING:root:01:17:29: 500 Internal Server Error. Requests processed since last 500 error: 2284
+WARNING:root:01:17:49: 500 Internal Server Error. Requests processed since last 500 error: 2327
+WARNING:root:01:17:49: 429 Too Many Requests. Requests processed since last 429 error: 72. Wait for 60 seconds and repeat
+WARNING:root:01:18:52: 500 Internal Server Error. Requests processed since last 500 error: 2331
+WARNING:root:01:19:16: 500 Internal Server Error. Requests processed since last 500 error: 2376
+WARNING:root:01:19:19: 500 Internal Server Error. Requests processed since last 500 error: 2381
+WARNING:root:01:19:33: 429 Too Many Requests. Requests processed since last 429 error: 84. Wait for 60 seconds and repeat
+WARNING:root:01:20:58: 500 Internal Server Error. Requests processed since last 500 error: 2465
+WARNING:root:01:21:11: 429 Too Many Requests. Requests processed since last 429 error: 80. Wait for 60 seconds and repeat
+WARNING:root:01:22:39: 500 Internal Server Error. Requests processed since last 500 error: 2550
+WARNING:root:01:22:52: 429 Too Many Requests. Requests processed since last 429 error: 87. Wait for 60 seconds and repeat
+WARNING:root:01:24:09: 500 Internal Server Error. Requests processed since last 500 error: 2618
+WARNING:root:01:24:25: 429 Too Many Requests. Requests processed since last 429 error: 76. Wait for 60 seconds and repeat
+WARNING:root:01:25:53: 500 Internal Server Error. Requests processed since last 500 error: 2717
+WARNING:root:01:26:02: 429 Too Many Requests. Requests processed since last 429 error: 80. Wait for 60 seconds and repeat
+WARNING:root:01:27:28: 500 Internal Server Error. Requests processed since last 500 error: 2792
+WARNING:root:01:27:37: 429 Too Many Requests. Requests processed since last 429 error: 75. Wait for 60 seconds and repeat
+WARNING:root:01:29:19: 429 Too Many Requests. Requests processed since last 429 error: 85. Wait for 60 seconds and repeat
+WARNING:root:01:30:34: 500 Internal Server Error. Requests processed since last 500 error: 2923
+WARNING:root:01:30:55: 500 Internal Server Error. Requests processed since last 500 error: 2969
+WARNING:root:01:30:58: 429 Too Many Requests. Requests processed since last 429 error: 80. Wait for 60 seconds and repeat
+WARNING:root:01:32:08: 500 Internal Server Error. Requests processed since last 500 error: 2994
+WARNING:root:01:32:38: 500 Internal Server Error. Requests processed since last 500 error: 3055
+WARNING:root:01:32:51: 429 Too Many Requests. Requests processed since last 429 error: 106. Wait for 60 seconds and repeat
+WARNING:root:01:34:02: 500 Internal Server Error. Requests processed since last 500 error: 3104
+WARNING:root:01:34:39: 429 Too Many Requests. Requests processed since last 429 error: 108. Wait for 60 seconds and repeat
+WARNING:root:01:35:53: 429 Too Many Requests. Requests processed since last 429 error: 32. Wait for 60 seconds and repeat
+WARNING:root:01:36:55: 500 Internal Server Error. Requests processed since last 500 error: 3223
+WARNING:root:01:37:27: 429 Too Many Requests. Requests processed since last 429 error: 76. Wait for 60 seconds and repeat
+WARNING:root:01:38:36: 429 Too Many Requests. Requests processed since last 429 error: 17. Wait for 60 seconds and repeat
+WARNING:root:01:39:50: 429 Too Many Requests. Requests processed since last 429 error: 30. Wait for 60 seconds and repeat
+WARNING:root:01:41:12: 429 Too Many Requests. Requests processed since last 429 error: 42. Wait for 60 seconds and repeat
+WARNING:root:01:42:16: 429 Too Many Requests. Requests processed since last 429 error: 7. Wait for 60 seconds and repeat
+WARNING:root:01:43:25: 429 Too Many Requests. Requests processed since last 429 error: 19. Wait for 60 seconds and repeat
+WARNING:root:01:45:39: 429 Too Many Requests. Requests processed since last 429 error: 166. Wait for 60 seconds and repeat
+WARNING:root:01:46:56: 429 Too Many Requests. Requests processed since last 429 error: 38. Wait for 60 seconds and repeat
+WARNING:root:01:49:03: 500 Internal Server Error. Requests processed since last 500 error: 3760
+WARNING:root:01:49:04: 429 Too Many Requests. Requests processed since last 429 error: 149. Wait for 60 seconds and repeat
+WARNING:root:01:50:25: 429 Too Many Requests. Requests processed since last 429 error: 45. Wait for 60 seconds and repeat
+WARNING:root:01:51:32: 500 Internal Server Error. Requests processed since last 500 error: 3826
+WARNING:root:01:51:35: 500 Internal Server Error. Requests processed since last 500 error: 3833
+WARNING:root:01:53:03: 500 Internal Server Error. Requests processed since last 500 error: 4016
+WARNING:root:01:53:14: 500 Internal Server Error. Requests processed since last 500 error: 4038
+WARNING:root:01:53:17: 429 Too Many Requests. Requests processed since last 429 error: 233. Wait for 60 seconds and repeat
+WARNING:root:01:54:31: 429 Too Many Requests. Requests processed since last 429 error: 31. Wait for 60 seconds and repeat
+WARNING:root:01:55:56: 429 Too Many Requests. Requests processed since last 429 error: 54. Wait for 60 seconds and repeat
+WARNING:root:01:57:00: 500 Internal Server Error. Requests processed since last 500 error: 4134
+WARNING:root:01:57:14: 429 Too Many Requests. Requests processed since last 429 error: 39. Wait for 60 seconds and repeat
+WARNING:root:01:58:26: 429 Too Many Requests. Requests processed since last 429 error: 30. Wait for 60 seconds and repeat
+WARNING:root:01:59:29: 500 Internal Server Error. Requests processed since last 500 error: 4201
+WARNING:root:01:59:41: 429 Too Many Requests. Requests processed since last 429 error: 30. Wait for 60 seconds and repeat
+WARNING:root:02:01:16: 429 Too Many Requests. Requests processed since last 429 error: 69. Wait for 60 seconds and repeat
+WARNING:root:02:02:59: 429 Too Many Requests. Requests processed since last 429 error: 86. Wait for 60 seconds and repeat
+WARNING:root:02:04:08: 429 Too Many Requests. Requests processed since last 429 error: 17. Wait for 60 seconds and repeat
+WARNING:root:02:05:23: 429 Too Many Requests. Requests processed since last 429 error: 34. Wait for 60 seconds and repeat
+WARNING:root:02:06:35: 429 Too Many Requests. Requests processed since last 429 error: 30. Wait for 60 seconds and repeat
+WARNING:root:02:07:39: 429 Too Many Requests. Requests processed since last 429 error: 9. Wait for 60 seconds and repeat
+WARNING:root:02:08:53: 429 Too Many Requests. Requests processed since last 429 error: 29. Wait for 60 seconds and repeat
+WARNING:root:02:11:43: 429 Too Many Requests. Requests processed since last 429 error: 235. Wait for 60 seconds and repeat
+WARNING:root:02:12:50: 500 Internal Server Error. Requests processed since last 500 error: 4751
+WARNING:root:02:12:56: 429 Too Many Requests. Requests processed since last 429 error: 29. Wait for 60 seconds and repeat
+WARNING:root:02:14:11: 429 Too Many Requests. Requests processed since last 429 error: 31. Wait for 60 seconds and repeat
+WARNING:root:02:15:37: 500 Internal Server Error. Requests processed since last 500 error: 4851
+WARNING:root:02:15:39: 500 Internal Server Error. Requests processed since last 500 error: 4854
+WARNING:root:02:15:49: 500 Internal Server Error. Requests processed since last 500 error: 4872
+WARNING:root:02:16:24: 500 Internal Server Error. Requests processed since last 500 error: 4951
+WARNING:root:02:17:42: 429 Too Many Requests. Requests processed since last 429 error: 328. Wait for 60 seconds and repeat
+WARNING:root:02:19:04: 429 Too Many Requests. Requests processed since last 429 error: 49. Wait for 60 seconds and repeat
+WARNING:root:02:21:15: 500 Internal Server Error. Requests processed since last 500 error: 5334
+WARNING:root:02:21:20: 429 Too Many Requests. Requests processed since last 429 error: 172. Wait for 60 seconds and repeat
+WARNING:root:02:22:35: 429 Too Many Requests. Requests processed since last 429 error: 29. Wait for 60 seconds and repeat
+WARNING:root:02:23:45: 500 Internal Server Error. Requests processed since last 500 error: 5391
+WARNING:root:02:24:15: 429 Too Many Requests. Requests processed since last 429 error: 77. Wait for 60 seconds and repeat
+WARNING:root:02:25:33: 500 Internal Server Error. Requests processed since last 500 error: 5490
+WARNING:root:02:25:50: 429 Too Many Requests. Requests processed since last 429 error: 78. Wait for 60 seconds and repeat
+WARNING:root:02:27:20: 500 Internal Server Error. Requests processed since last 500 error: 5600
+WARNING:root:02:27:21: 429 Too Many Requests. Requests processed since last 429 error: 74. Wait for 60 seconds and repeat
+WARNING:root:02:28:23: 500 Internal Server Error. Requests processed since last 500 error: 5606
+WARNING:root:02:28:55: 429 Too Many Requests. Requests processed since last 429 error: 78. Wait for 60 seconds and repeat
+WARNING:root:02:30:34: 429 Too Many Requests. Requests processed since last 429 error: 82. Wait for 60 seconds and repeat
+WARNING:root:02:31:50: 429 Too Many Requests. Requests processed since last 429 error: 34. Wait for 60 seconds and repeat
+WARNING:root:02:33:05: 429 Too Many Requests. Requests processed since last 429 error: 35. Wait for 60 seconds and repeat
+WARNING:root:02:34:10: 429 Too Many Requests. Requests processed since last 429 error: 8. Wait for 60 seconds and repeat
+WARNING:root:02:35:23: 429 Too Many Requests. Requests processed since last 429 error: 30. Wait for 60 seconds and repeat
+WARNING:root:02:36:40: 429 Too Many Requests. Requests processed since last 429 error: 42. Wait for 60 seconds and repeat
+WARNING:root:02:37:43: 429 Too Many Requests. Requests processed since last 429 error: 7. Wait for 60 seconds and repeat
+WARNING:root:02:38:52: 429 Too Many Requests. Requests processed since last 429 error: 16. Wait for 60 seconds and repeat
+WARNING:root:02:40:04: 429 Too Many Requests. Requests processed since last 429 error: 30. Wait for 60 seconds and repeat
+WARNING:root:02:42:11: 429 Too Many Requests. Requests processed since last 429 error: 148. Wait for 60 seconds and repeat
+WARNING:root:02:43:30: 429 Too Many Requests. Requests processed since last 429 error: 42. Wait for 60 seconds and repeat
+WARNING:root:02:46:30: 429 Too Many Requests. Requests processed since last 429 error: 256. Wait for 60 seconds and repeat
+WARNING:root:02:47:32: 500 Internal Server Error. Requests processed since last 500 error: 6411
+WARNING:root:02:47:33: 429 Too Many Requests. Requests processed since last 429 error: 3. Wait for 60 seconds and repeat
+WARNING:root:02:48:43: 429 Too Many Requests. Requests processed since last 429 error: 21. Wait for 60 seconds and repeat
+WARNING:root:02:50:07: 429 Too Many Requests. Requests processed since last 429 error: 57. Wait for 60 seconds and repeat
+WARNING:root:02:51:24: 429 Too Many Requests. Requests processed since last 429 error: 37. Wait for 60 seconds and repeat
+WARNING:root:02:52:38: 429 Too Many Requests. Requests processed since last 429 error: 31. Wait for 60 seconds and repeat
+WARNING:root:02:55:49: 500 Internal Server Error. Requests processed since last 500 error: 6841
+WARNING:root:02:56:11: 429 Too Many Requests. Requests processed since last 429 error: 333. Wait for 60 seconds and repeat
+WARNING:root:02:57:41: 500 Internal Server Error. Requests processed since last 500 error: 6965
+WARNING:root:02:57:56: 429 Too Many Requests. Requests processed since last 429 error: 108. Wait for 60 seconds and repeat
+WARNING:root:02:59:12: 429 Too Many Requests. Requests processed since last 429 error: 40. Wait for 60 seconds and repeat
+WARNING:root:03:00:34: 500 Internal Server Error. Requests processed since last 500 error: 7082
+WARNING:root:03:00:52: 500 Internal Server Error. Requests processed since last 500 error: 7119
+WARNING:root:03:01:43: 500 Internal Server Error. Requests processed since last 500 error: 7224
+WARNING:root:03:02:19: 429 Too Many Requests. Requests processed since last 429 error: 263. Wait for 60 seconds and repeat
+WARNING:root:03:03:38: 500 Internal Server Error. Requests processed since last 500 error: 7345
+WARNING:root:03:03:42: 500 Internal Server Error. Requests processed since last 500 error: 7353
+WARNING:root:03:03:49: 429 Too Many Requests. Requests processed since last 429 error: 63. Wait for 60 seconds and repeat
+WARNING:root:03:05:21: 500 Internal Server Error. Requests processed since last 500 error: 7439
+WARNING:root:03:05:23: 500 Internal Server Error. Requests processed since last 500 error: 7440
+WARNING:root:03:05:25: 429 Too Many Requests. Requests processed since last 429 error: 78. Wait for 60 seconds and repeat
+WARNING:root:03:06:48: 500 Internal Server Error. Requests processed since last 500 error: 7496
+WARNING:root:03:06:52: 500 Internal Server Error. Requests processed since last 500 error: 7505
+WARNING:root:03:06:53: 500 Internal Server Error. Requests processed since last 500 error: 7507
+WARNING:root:03:06:53: 500 Internal Server Error. Requests processed since last 500 error: 7507
+WARNING:root:03:06:53: 500 Internal Server Error. Requests processed since last 500 error: 7507
+WARNING:root:03:06:53: 500 Internal Server Error. Requests processed since last 500 error: 7508
+WARNING:root:03:07:01: 429 Too Many Requests. Requests processed since last 429 error: 82. Wait for 60 seconds and repeat
+WARNING:root:03:08:30: 500 Internal Server Error. Requests processed since last 500 error: 7586
+WARNING:root:03:08:30: 500 Internal Server Error. Requests processed since last 500 error: 7586
+WARNING:root:03:08:37: 429 Too Many Requests. Requests processed since last 429 error: 78. Wait for 60 seconds and repeat
+WARNING:root:03:09:49: 500 Internal Server Error. Requests processed since last 500 error: 7631
+WARNING:root:03:09:51: 500 Internal Server Error. Requests processed since last 500 error: 7637
+WARNING:root:03:10:08: 429 Too Many Requests. Requests processed since last 429 error: 73. Wait for 60 seconds and repeat
+WARNING:root:03:11:38: 429 Too Many Requests. Requests processed since last 429 error: 68. Wait for 60 seconds and repeat
+WARNING:root:03:12:39: 500 Internal Server Error. Requests processed since last 500 error: 7747
+WARNING:root:03:13:12: 429 Too Many Requests. Requests processed since last 429 error: 78. Wait for 60 seconds and repeat
+WARNING:root:03:14:53: 429 Too Many Requests. Requests processed since last 429 error: 84. Wait for 60 seconds and repeat
+WARNING:root:03:16:21: 500 Internal Server Error. Requests processed since last 500 error: 7963
+WARNING:root:03:16:21: 500 Internal Server Error. Requests processed since last 500 error: 7964
+WARNING:root:03:16:24: 500 Internal Server Error. Requests processed since last 500 error: 7971
+WARNING:root:03:16:31: 429 Too Many Requests. Requests processed since last 429 error: 78. Wait for 60 seconds and repeat
+WARNING:root:03:17:32: 500 Internal Server Error. Requests processed since last 500 error: 7987
+WARNING:root:03:18:02: 429 Too Many Requests. Requests processed since last 429 error: 75. Wait for 60 seconds and repeat
+WARNING:root:03:19:35: 429 Too Many Requests. Requests processed since last 429 error: 77. Wait for 60 seconds and repeat
+WARNING:root:03:20:36: 500 Internal Server Error. Requests processed since last 500 error: 8141
+WARNING:root:03:21:00: 500 Internal Server Error. Requests processed since last 500 error: 8193
+WARNING:root:03:21:09: 429 Too Many Requests. Requests processed since last 429 error: 76. Wait for 60 seconds and repeat
+WARNING:root:03:22:14: 500 Internal Server Error. Requests processed since last 500 error: 8224
+WARNING:root:03:22:35: 500 Internal Server Error. Requests processed since last 500 error: 8270
+WARNING:root:03:22:53: 429 Too Many Requests. Requests processed since last 429 error: 92. Wait for 60 seconds and repeat
+WARNING:root:03:24:31: 429 Too Many Requests. Requests processed since last 429 error: 82. Wait for 60 seconds and repeat
+WARNING:root:03:26:05: 429 Too Many Requests. Requests processed since last 429 error: 78. Wait for 60 seconds and repeat
+WARNING:root:03:27:38: 429 Too Many Requests. Requests processed since last 429 error: 75. Wait for 60 seconds and repeat
+WARNING:root:03:28:39: 429 Too Many Requests. Requests processed since last 429 error: 3. Wait for 60 seconds and repeat
+WARNING:root:03:29:51: 429 Too Many Requests. Requests processed since last 429 error: 26. Wait for 60 seconds and repeat
+WARNING:root:03:31:13: 429 Too Many Requests. Requests processed since last 429 error: 48. Wait for 60 seconds and repeat
+WARNING:root:03:32:47: 500 Internal Server Error. Requests processed since last 500 error: 8693
+WARNING:root:03:33:14: 429 Too Many Requests. Requests processed since last 429 error: 134. Wait for 60 seconds and repeat
+WARNING:root:03:34:25: 500 Internal Server Error. Requests processed since last 500 error: 8777
+WARNING:root:03:34:27: 429 Too Many Requests. Requests processed since last 429 error: 31. Wait for 60 seconds and repeat
+WARNING:root:03:35:41: 429 Too Many Requests. Requests processed since last 429 error: 29. Wait for 60 seconds and repeat
+WARNING:root:03:38:22: 429 Too Many Requests. Requests processed since last 429 error: 238. Wait for 60 seconds and repeat
+WARNING:root:03:39:36: 429 Too Many Requests. Requests processed since last 429 error: 29. Wait for 60 seconds and repeat
+WARNING:root:03:40:46: 500 Internal Server Error. Requests processed since last 500 error: 9104
+WARNING:root:03:40:48: 429 Too Many Requests. Requests processed since last 429 error: 29. Wait for 60 seconds and repeat
+WARNING:root:03:42:28: 500 Internal Server Error. Requests processed since last 500 error: 9189
+WARNING:root:03:44:38: 500 Internal Server Error. Requests processed since last 500 error: 9456
+WARNING:root:03:45:15: 429 Too Many Requests. Requests processed since last 429 error: 427. Wait for 60 seconds and repeat
+WARNING:root:03:46:28: 429 Too Many Requests. Requests processed since last 429 error: 31. Wait for 60 seconds and repeat
+WARNING:root:03:47:40: 429 Too Many Requests. Requests processed since last 429 error: 29. Wait for 60 seconds and repeat
+WARNING:root:03:48:53: 429 Too Many Requests. Requests processed since last 429 error: 30. Wait for 60 seconds and repeat
+WARNING:root:03:50:08: 429 Too Many Requests. Requests processed since last 429 error: 31. Wait for 60 seconds and repeat
+WARNING:root:03:51:23: 429 Too Many Requests. Requests processed since last 429 error: 29. Wait for 60 seconds and repeat
+WARNING:root:03:52:29: 500 Internal Server Error. Requests processed since last 500 error: 9697
+WARNING:root:03:53:52: 500 Internal Server Error. Requests processed since last 500 error: 9881
+WARNING:root:03:54:17: 429 Too Many Requests. Requests processed since last 429 error: 253. Wait for 60 seconds and repeat
+WARNING:root:03:55:53: 429 Too Many Requests. Requests processed since last 429 error: 80. Wait for 60 seconds and repeat
+WARNING:root:03:57:05: 429 Too Many Requests. Requests processed since last 429 error: 28. Wait for 60 seconds and repeat
+WARNING:root:03:58:18: 429 Too Many Requests. Requests processed since last 429 error: 31. Wait for 60 seconds and repeat
+WARNING:root:04:01:04: 429 Too Many Requests. Requests processed since last 429 error: 233. Wait for 60 seconds and repeat
+WARNING:root:04:02:22: 429 Too Many Requests. Requests processed since last 429 error: 37. Wait for 60 seconds and repeat
+WARNING:root:04:03:24: 429 Too Many Requests. Requests processed since last 429 error: 3. Wait for 60 seconds and repeat
+WARNING:root:04:04:36: 429 Too Many Requests. Requests processed since last 429 error: 25. Wait for 60 seconds and repeat
+WARNING:root:04:06:05: 429 Too Many Requests. Requests processed since last 429 error: 59. Wait for 60 seconds and repeat
+WARNING:root:04:07:22: 429 Too Many Requests. Requests processed since last 429 error: 37. Wait for 60 seconds and repeat
+WARNING:root:04:08:35: 429 Too Many Requests. Requests processed since last 429 error: 28. Wait for 60 seconds and repeat
+WARNING:root:04:09:49: 429 Too Many Requests. Requests processed since last 429 error: 28. Wait for 60 seconds and repeat
+WARNING:root:04:11:25: 429 Too Many Requests. Requests processed since last 429 error: 77. Wait for 60 seconds and repeat
+WARNING:root:04:12:32: 500 Internal Server Error. Requests processed since last 500 error: 10617
+WARNING:root:04:12:35: 429 Too Many Requests. Requests processed since last 429 error: 17. Wait for 60 seconds and repeat
+WARNING:root:04:13:48: 429 Too Many Requests. Requests processed since last 429 error: 31. Wait for 60 seconds and repeat
+WARNING:root:04:15:03: 429 Too Many Requests. Requests processed since last 429 error: 34. Wait for 60 seconds and repeat
+WARNING:root:04:16:31: 429 Too Many Requests. Requests processed since last 429 error: 61. Wait for 60 seconds and repeat
+WARNING:root:04:17:44: 429 Too Many Requests. Requests processed since last 429 error: 29. Wait for 60 seconds and repeat
+WARNING:root:04:19:31: 500 Internal Server Error. Requests processed since last 500 error: 10875
+WARNING:root:04:20:32: 429 Too Many Requests. Requests processed since last 429 error: 230. Wait for 60 seconds and repeat
+WARNING:root:04:21:47: 429 Too Many Requests. Requests processed since last 429 error: 31. Wait for 60 seconds and repeat
+WARNING:root:04:23:00: 429 Too Many Requests. Requests processed since last 429 error: 30. Wait for 60 seconds and repeat
+WARNING:root:04:24:13: 429 Too Many Requests. Requests processed since last 429 error: 30. Wait for 60 seconds and repeat
+WARNING:root:04:25:15: 500 Internal Server Error. Requests processed since last 500 error: 11098
+WARNING:root:04:25:26: 429 Too Many Requests. Requests processed since last 429 error: 30. Wait for 60 seconds and repeat
+WARNING:root:04:26:39: 429 Too Many Requests. Requests processed since last 429 error: 30. Wait for 60 seconds and repeat
+WARNING:root:04:28:19: 500 Internal Server Error. Requests processed since last 500 error: 11241
+WARNING:root:04:28:52: 429 Too Many Requests. Requests processed since last 429 error: 156. Wait for 60 seconds and repeat
+WARNING:root:04:30:11: 429 Too Many Requests. Requests processed since last 429 error: 43. Wait for 60 seconds and repeat
+WARNING:root:04:31:56: 500 Internal Server Error. Requests processed since last 500 error: 11450
+WARNING:root:04:32:20: 429 Too Many Requests. Requests processed since last 429 error: 145. Wait for 60 seconds and repeat
+WARNING:root:04:33:38: 429 Too Many Requests. Requests processed since last 429 error: 40. Wait for 60 seconds and repeat
+WARNING:root:04:34:38: 500 Internal Server Error. Requests processed since last 500 error: 11540
+WARNING:root:04:35:09: 429 Too Many Requests. Requests processed since last 429 error: 59. Wait for 60 seconds and repeat
+WARNING:root:04:36:15: 429 Too Many Requests. Requests processed since last 429 error: 13. Wait for 60 seconds and repeat
+WARNING:root:04:37:19: 429 Too Many Requests. Requests processed since last 429 error: 8. Wait for 60 seconds and repeat
+WARNING:root:04:38:34: 429 Too Many Requests. Requests processed since last 429 error: 33. Wait for 60 seconds and repeat
+WARNING:root:04:40:33: 429 Too Many Requests. Requests processed since last 429 error: 135. Wait for 60 seconds and repeat
+WARNING:root:04:41:34: 500 Internal Server Error. Requests processed since last 500 error: 11792
+WARNING:root:04:41:43: 429 Too Many Requests. Requests processed since last 429 error: 25. Wait for 60 seconds and repeat
+WARNING:root:04:42:52: 429 Too Many Requests. Requests processed since last 429 error: 20. Wait for 60 seconds and repeat
+WARNING:root:04:43:55: 429 Too Many Requests. Requests processed since last 429 error: 7. Wait for 60 seconds and repeat
+WARNING:root:04:46:11: 429 Too Many Requests. Requests processed since last 429 error: 158. Wait for 60 seconds and repeat
+WARNING:root:04:47:24: 429 Too Many Requests. Requests processed since last 429 error: 31. Wait for 60 seconds and repeat
+WARNING:root:04:49:43: 429 Too Many Requests. Requests processed since last 429 error: 173. Wait for 60 seconds and repeat
+WARNING:root:04:50:56: 429 Too Many Requests. Requests processed since last 429 error: 31. Wait for 60 seconds and repeat
+WARNING:root:04:53:42: 429 Too Many Requests. Requests processed since last 429 error: 235. Wait for 60 seconds and repeat
+WARNING:root:04:54:55: 429 Too Many Requests. Requests processed since last 429 error: 32. Wait for 60 seconds and repeat
+WARNING:root:04:55:56: 429 Too Many Requests. Requests processed since last 429 error: 2. Wait for 60 seconds and repeat
+WARNING:root:04:57:12: 429 Too Many Requests. Requests processed since last 429 error: 29. Wait for 60 seconds and repeat
+WARNING:root:04:58:36: 429 Too Many Requests. Requests processed since last 429 error: 55. Wait for 60 seconds and repeat
+WARNING:root:04:59:49: 429 Too Many Requests. Requests processed since last 429 error: 30. Wait for 60 seconds and repeat
+WARNING:root:05:00:57: 500 Internal Server Error. Requests processed since last 500 error: 12633
+WARNING:root:05:00:58: 500 Internal Server Error. Requests processed since last 500 error: 12633
+WARNING:root:05:00:59: 500 Internal Server Error. Requests processed since last 500 error: 12633
+WARNING:root:05:01:53: 429 Too Many Requests. Requests processed since last 429 error: 135. Wait for 60 seconds and repeat
+WARNING:root:05:03:00: 429 Too Many Requests. Requests processed since last 429 error: 14. Wait for 60 seconds and repeat
+WARNING:root:05:04:13: 429 Too Many Requests. Requests processed since last 429 error: 29. Wait for 60 seconds and repeat
+WARNING:root:05:05:29: 429 Too Many Requests. Requests processed since last 429 error: 30. Wait for 60 seconds and repeat
+WARNING:root:05:07:39: 429 Too Many Requests. Requests processed since last 429 error: 153. Wait for 60 seconds and repeat
+WARNING:root:05:09:01: 429 Too Many Requests. Requests processed since last 429 error: 49. Wait for 60 seconds and repeat
+WARNING:root:05:10:04: 500 Internal Server Error. Requests processed since last 500 error: 13032
+WARNING:root:05:10:16: 500 Internal Server Error. Requests processed since last 500 error: 13057
+WARNING:root:05:10:26: 429 Too Many Requests. Requests processed since last 429 error: 55. Wait for 60 seconds and repeat
+WARNING:root:05:11:40: 429 Too Many Requests. Requests processed since last 429 error: 30. Wait for 60 seconds and repeat
+WARNING:root:05:14:11: 500 Internal Server Error. Requests processed since last 500 error: 13300
+WARNING:root:05:14:45: 429 Too Many Requests. Requests processed since last 429 error: 260. Wait for 60 seconds and repeat
+WARNING:root:05:16:00: 429 Too Many Requests. Requests processed since last 429 error: 31. Wait for 60 seconds and repeat
+WARNING:root:05:18:16: 429 Too Many Requests. Requests processed since last 429 error: 175. Wait for 60 seconds and repeat
+WARNING:root:05:19:18: 429 Too Many Requests. Requests processed since last 429 error: 4. Wait for 60 seconds and repeat
+WARNING:root:05:20:32: 429 Too Many Requests. Requests processed since last 429 error: 31. Wait for 60 seconds and repeat
+WARNING:root:05:21:54: 429 Too Many Requests. Requests processed since last 429 error: 49. Wait for 60 seconds and repeat
+WARNING:root:05:23:00: 429 Too Many Requests. Requests processed since last 429 error: 15. Wait for 60 seconds and repeat
+WARNING:root:05:24:03: 429 Too Many Requests. Requests processed since last 429 error: 4. Wait for 60 seconds and repeat
+WARNING:root:05:25:32: 429 Too Many Requests. Requests processed since last 429 error: 64. Wait for 60 seconds and repeat
+WARNING:root:05:26:47: 429 Too Many Requests. Requests processed since last 429 error: 35. Wait for 60 seconds and repeat
+WARNING:root:05:28:00: 429 Too Many Requests. Requests processed since last 429 error: 29. Wait for 60 seconds and repeat
+WARNING:root:05:29:14: 429 Too Many Requests. Requests processed since last 429 error: 28. Wait for 60 seconds and repeat
+WARNING:root:05:30:44: 429 Too Many Requests. Requests processed since last 429 error: 71. Wait for 60 seconds and repeat
+WARNING:root:05:32:44: 429 Too Many Requests. Requests processed since last 429 error: 120. Wait for 60 seconds and repeat
+WARNING:root:05:34:10: 429 Too Many Requests. Requests processed since last 429 error: 54. Wait for 60 seconds and repeat
+WARNING:root:05:35:22: 429 Too Many Requests. Requests processed since last 429 error: 27. Wait for 60 seconds and repeat
+WARNING:root:05:37:20: 429 Too Many Requests. Requests processed since last 429 error: 134. Wait for 60 seconds and repeat
+WARNING:root:05:38:39: 429 Too Many Requests. Requests processed since last 429 error: 42. Wait for 60 seconds and repeat
+WARNING:root:05:39:53: 429 Too Many Requests. Requests processed since last 429 error: 30. Wait for 60 seconds and repeat
+WARNING:root:05:41:07: 429 Too Many Requests. Requests processed since last 429 error: 30. Wait for 60 seconds and repeat
+WARNING:root:05:42:37: 429 Too Many Requests. Requests processed since last 429 error: 64. Wait for 60 seconds and repeat
+WARNING:root:05:44:29: 429 Too Many Requests. Requests processed since last 429 error: 122. Wait for 60 seconds and repeat
+WARNING:root:05:45:41: 429 Too Many Requests. Requests processed since last 429 error: 28. Wait for 60 seconds and repeat
+WARNING:root:05:46:55: 429 Too Many Requests. Requests processed since last 429 error: 30. Wait for 60 seconds and repeat
+WARNING:root:05:49:09: 500 Internal Server Error. Requests processed since last 500 error: 14751
+WARNING:root:05:50:37: 429 Too Many Requests. Requests processed since last 429 error: 357. Wait for 60 seconds and repeat
+WARNING:root:05:52:00: 429 Too Many Requests. Requests processed since last 429 error: 49. Wait for 60 seconds and repeat
+WARNING:root:05:53:31: 429 Too Many Requests. Requests processed since last 429 error: 65. Wait for 60 seconds and repeat
+WARNING:root:05:54:50: 429 Too Many Requests. Requests processed since last 429 error: 38. Wait for 60 seconds and repeat
+WARNING:root:05:56:29: 500 Internal Server Error. Requests processed since last 500 error: 15186
+WARNING:root:05:56:47: 429 Too Many Requests. Requests processed since last 429 error: 129. Wait for 60 seconds and repeat
+WARNING:root:05:58:02: 500 Internal Server Error. Requests processed since last 500 error: 15258
+WARNING:root:05:58:08: 429 Too Many Requests. Requests processed since last 429 error: 45. Wait for 60 seconds and repeat
+WARNING:root:05:59:21: 429 Too Many Requests. Requests processed since last 429 error: 30. Wait for 60 seconds and repeat
+WARNING:root:06:00:38: 429 Too Many Requests. Requests processed since last 429 error: 30. Wait for 60 seconds and repeat
+WARNING:root:06:02:10: 429 Too Many Requests. Requests processed since last 429 error: 63. Wait for 60 seconds and repeat
+WARNING:root:06:04:04: 429 Too Many Requests. Requests processed since last 429 error: 112. Wait for 60 seconds and repeat
+WARNING:root:06:05:13: 500 Internal Server Error. Requests processed since last 500 error: 15525
+WARNING:root:06:05:18: 429 Too Many Requests. Requests processed since last 429 error: 28. Wait for 60 seconds and repeat
+WARNING:root:06:06:32: 429 Too Many Requests. Requests processed since last 429 error: 30. Wait for 60 seconds and repeat
+WARNING:root:06:08:30: 500 Internal Server Error. Requests processed since last 500 error: 15692
+WARNING:root:06:08:49: 429 Too Many Requests. Requests processed since last 429 error: 170. Wait for 60 seconds and repeat
+WARNING:root:06:10:29: 429 Too Many Requests. Requests processed since last 429 error: 80. Wait for 60 seconds and repeat
+WARNING:root:06:11:36: 429 Too Many Requests. Requests processed since last 429 error: 16. Wait for 60 seconds and repeat
+WARNING:root:06:12:50: 429 Too Many Requests. Requests processed since last 429 error: 29. Wait for 60 seconds and repeat
+WARNING:root:06:15:10: 429 Too Many Requests. Requests processed since last 429 error: 172. Wait for 60 seconds and repeat
+WARNING:root:06:16:16: 500 Internal Server Error. Requests processed since last 500 error: 16041
+WARNING:root:06:16:24: 429 Too Many Requests. Requests processed since last 429 error: 27. Wait for 60 seconds and repeat
+WARNING:root:06:18:52: 429 Too Many Requests. Requests processed since last 429 error: 179. Wait for 60 seconds and repeat
+WARNING:root:06:19:55: 429 Too Many Requests. Requests processed since last 429 error: 7. Wait for 60 seconds and repeat
+WARNING:root:06:21:04: 429 Too Many Requests. Requests processed since last 429 error: 20. Wait for 60 seconds and repeat
+WARNING:root:06:23:17: 429 Too Many Requests. Requests processed since last 429 error: 156. Wait for 60 seconds and repeat
+WARNING:root:06:24:39: 429 Too Many Requests. Requests processed since last 429 error: 48. Wait for 60 seconds and repeat
+WARNING:root:06:26:27: 500 Internal Server Error. Requests processed since last 500 error: 16582
+WARNING:root:06:27:11: 500 Internal Server Error. Requests processed since last 500 error: 16689
+WARNING:root:06:27:12: 500 Internal Server Error. Requests processed since last 500 error: 16689
+WARNING:root:06:27:18: 429 Too Many Requests. Requests processed since last 429 error: 234. Wait for 60 seconds and repeat
+WARNING:root:06:28:31: 429 Too Many Requests. Requests processed since last 429 error: 28. Wait for 60 seconds and repeat
+WARNING:root:06:30:08: 429 Too Many Requests. Requests processed since last 429 error: 75. Wait for 60 seconds and repeat
+WARNING:root:06:31:30: 429 Too Many Requests. Requests processed since last 429 error: 43. Wait for 60 seconds and repeat
+WARNING:root:06:33:11: 500 Internal Server Error. Requests processed since last 500 error: 16937
+WARNING:root:06:33:13: 500 Internal Server Error. Requests processed since last 500 error: 16942
+WARNING:root:06:33:50: 429 Too Many Requests. Requests processed since last 429 error: 172. Wait for 60 seconds and repeat
+WARNING:root:06:35:04: 429 Too Many Requests. Requests processed since last 429 error: 33. Wait for 60 seconds and repeat
+WARNING:root:06:36:06: 429 Too Many Requests. Requests processed since last 429 error: 6. Wait for 60 seconds and repeat
+WARNING:root:06:37:15: 429 Too Many Requests. Requests processed since last 429 error: 20. Wait for 60 seconds and repeat
+WARNING:root:06:38:40: 429 Too Many Requests. Requests processed since last 429 error: 56. Wait for 60 seconds and repeat
+WARNING:root:06:40:07: 500 Internal Server Error. Requests processed since last 500 error: 17195
+WARNING:root:06:40:40: 429 Too Many Requests. Requests processed since last 429 error: 134. Wait for 60 seconds and repeat
+WARNING:root:06:41:55: 429 Too Many Requests. Requests processed since last 429 error: 30. Wait for 60 seconds and repeat
+WARNING:root:06:42:57: 429 Too Many Requests. Requests processed since last 429 error: 4. Wait for 60 seconds and repeat
+WARNING:root:06:44:00: 500 Internal Server Error. Requests processed since last 500 error: 17312
+WARNING:root:06:44:07: 429 Too Many Requests. Requests processed since last 429 error: 23. Wait for 60 seconds and repeat
+WARNING:root:06:45:29: 429 Too Many Requests. Requests processed since last 429 error: 52. Wait for 60 seconds and repeat
+WARNING:root:06:46:47: 429 Too Many Requests. Requests processed since last 429 error: 41. Wait for 60 seconds and repeat
+WARNING:root:06:48:00: 429 Too Many Requests. Requests processed since last 429 error: 31. Wait for 60 seconds and repeat
+WARNING:root:06:49:13: 429 Too Many Requests. Requests processed since last 429 error: 29. Wait for 60 seconds and repeat
+WARNING:root:06:50:26: 500 Internal Server Error. Requests processed since last 500 error: 17505
+WARNING:root:06:50:31: 500 Internal Server Error. Requests processed since last 500 error: 17514
+WARNING:root:06:50:45: 429 Too Many Requests. Requests processed since last 429 error: 63. Wait for 60 seconds and repeat
+WARNING:root:06:52:47: 500 Internal Server Error. Requests processed since last 500 error: 17673
+WARNING:root:06:52:53: 429 Too Many Requests. Requests processed since last 429 error: 141. Wait for 60 seconds and repeat
+WARNING:root:06:53:56: 500 Internal Server Error. Requests processed since last 500 error: 17690
+WARNING:root:06:54:09: 429 Too Many Requests. Requests processed since last 429 error: 34. Wait for 60 seconds and repeat
+WARNING:root:06:56:14: 500 Internal Server Error. Requests processed since last 500 error: 17868
+WARNING:root:06:56:24: 429 Too Many Requests. Requests processed since last 429 error: 174. Wait for 60 seconds and repeat
+WARNING:root:06:57:38: 429 Too Many Requests. Requests processed since last 429 error: 32. Wait for 60 seconds and repeat
+WARNING:root:06:58:47: 500 Internal Server Error. Requests processed since last 500 error: 17942
+WARNING:root:06:58:47: 500 Internal Server Error. Requests processed since last 500 error: 17942
+WARNING:root:06:58:51: 429 Too Many Requests. Requests processed since last 429 error: 27. Wait for 60 seconds and repeat
+WARNING:root:07:00:22: 500 Internal Server Error. Requests processed since last 500 error: 18011
+WARNING:root:07:00:26: 500 Internal Server Error. Requests processed since last 500 error: 18017
+WARNING:root:07:00:34: 429 Too Many Requests. Requests processed since last 429 error: 81. Wait for 60 seconds and repeat
+WARNING:root:07:02:27: 500 Internal Server Error. Requests processed since last 500 error: 18137
+WARNING:root:07:02:44: 429 Too Many Requests. Requests processed since last 429 error: 133. Wait for 60 seconds and repeat
+WARNING:root:07:04:03: 429 Too Many Requests. Requests processed since last 429 error: 42. Wait for 60 seconds and repeat
+WARNING:root:07:06:18: 429 Too Many Requests. Requests processed since last 429 error: 176. Wait for 60 seconds and repeat
+WARNING:root:07:07:31: 429 Too Many Requests. Requests processed since last 429 error: 30. Wait for 60 seconds and repeat
+WARNING:root:07:08:48: 429 Too Many Requests. Requests processed since last 429 error: 36. Wait for 60 seconds and repeat
+WARNING:root:07:09:49: 429 Too Many Requests. Requests processed since last 429 error: 1. Wait for 60 seconds and repeat
+WARNING:root:07:10:50: 500 Internal Server Error. Requests processed since last 500 error: 18452
+WARNING:root:07:11:03: 429 Too Many Requests. Requests processed since last 429 error: 28. Wait for 60 seconds and repeat
+WARNING:root:07:12:29: 429 Too Many Requests. Requests processed since last 429 error: 56. Wait for 60 seconds and repeat
+WARNING:root:07:13:51: 429 Too Many Requests. Requests processed since last 429 error: 44. Wait for 60 seconds and repeat
+WARNING:root:07:15:05: 429 Too Many Requests. Requests processed since last 429 error: 29. Wait for 60 seconds and repeat
+WARNING:root:07:16:55: 500 Internal Server Error. Requests processed since last 500 error: 18726
+WARNING:root:07:17:44: 429 Too Many Requests. Requests processed since last 429 error: 237. Wait for 60 seconds and repeat
+WARNING:root:07:18:54: 500 Internal Server Error. Requests processed since last 500 error: 18868
+WARNING:root:07:18:57: 429 Too Many Requests. Requests processed since last 429 error: 30. Wait for 60 seconds and repeat
+WARNING:root:07:20:20: 429 Too Many Requests. Requests processed since last 429 error: 55. Wait for 60 seconds and repeat
+WARNING:root:07:21:35: 500 Internal Server Error. Requests processed since last 500 error: 18960
+WARNING:root:07:21:43: 429 Too Many Requests. Requests processed since last 429 error: 48. Wait for 60 seconds and repeat
+WARNING:root:07:22:57: 500 Internal Server Error. Requests processed since last 500 error: 19002
+WARNING:root:07:22:58: 429 Too Many Requests. Requests processed since last 429 error: 28. Wait for 60 seconds and repeat
+WARNING:root:07:24:40: 500 Internal Server Error. Requests processed since last 500 error: 19102
+WARNING:root:07:25:38: 429 Too Many Requests. Requests processed since last 429 error: 235. Wait for 60 seconds and repeat
+WARNING:root:07:26:51: 429 Too Many Requests. Requests processed since last 429 error: 30. Wait for 60 seconds and repeat
+WARNING:root:07:28:04: 429 Too Many Requests. Requests processed since last 429 error: 32. Wait for 60 seconds and repeat
+WARNING:root:07:30:25: 429 Too Many Requests. Requests processed since last 429 error: 159. Wait for 60 seconds and repeat
+WARNING:root:07:31:43: 429 Too Many Requests. Requests processed since last 429 error: 35. Wait for 60 seconds and repeat
+WARNING:root:07:33:53: 429 Too Many Requests. Requests processed since last 429 error: 156. Wait for 60 seconds and repeat
+WARNING:root:07:35:14: 429 Too Many Requests. Requests processed since last 429 error: 49. Wait for 60 seconds and repeat
+WARNING:root:07:36:35: 429 Too Many Requests. Requests processed since last 429 error: 48. Wait for 60 seconds and repeat
+WARNING:root:07:37:42: 429 Too Many Requests. Requests processed since last 429 error: 15. Wait for 60 seconds and repeat
+WARNING:root:07:38:45: 429 Too Many Requests. Requests processed since last 429 error: 5. Wait for 60 seconds and repeat
+WARNING:root:07:39:58: 429 Too Many Requests. Requests processed since last 429 error: 27. Wait for 60 seconds and repeat
+WARNING:root:07:43:51: 429 Too Many Requests. Requests processed since last 429 error: 353. Wait for 60 seconds and repeat
+WARNING:root:07:45:10: 500 Internal Server Error. Requests processed since last 500 error: 20187
+WARNING:root:07:45:11: 429 Too Many Requests. Requests processed since last 429 error: 39. Wait for 60 seconds and repeat
+WARNING:root:07:47:15: 429 Too Many Requests. Requests processed since last 429 error: 151. Wait for 60 seconds and repeat
+WARNING:root:07:48:30: 500 Internal Server Error. Requests processed since last 500 error: 20374
+WARNING:root:07:48:33: 429 Too Many Requests. Requests processed since last 429 error: 42. Wait for 60 seconds and repeat
+WARNING:root:07:51:31: 429 Too Many Requests. Requests processed since last 429 error: 236. Wait for 60 seconds and repeat
+WARNING:root:07:53:09: 429 Too Many Requests. Requests processed since last 429 error: 70. Wait for 60 seconds and repeat
+WARNING:root:07:55:02: 429 Too Many Requests. Requests processed since last 429 error: 120. Wait for 60 seconds and repeat
+WARNING:root:07:56:09: 429 Too Many Requests. Requests processed since last 429 error: 15. Wait for 60 seconds and repeat
+WARNING:root:07:57:22: 429 Too Many Requests. Requests processed since last 429 error: 29. Wait for 60 seconds and repeat
+WARNING:root:07:58:36: 429 Too Many Requests. Requests processed since last 429 error: 30. Wait for 60 seconds and repeat
+WARNING:root:08:00:05: 429 Too Many Requests. Requests processed since last 429 error: 57. Wait for 60 seconds and repeat
+WARNING:root:08:01:20: 429 Too Many Requests. Requests processed since last 429 error: 29. Wait for 60 seconds and repeat
+WARNING:root:08:02:56: 500 Internal Server Error. Requests processed since last 500 error: 21041
+WARNING:root:08:03:28: 429 Too Many Requests. Requests processed since last 429 error: 141. Wait for 60 seconds and repeat
+WARNING:root:08:04:47: 429 Too Many Requests. Requests processed since last 429 error: 42. Wait for 60 seconds and repeat
+WARNING:root:08:06:00: 429 Too Many Requests. Requests processed since last 429 error: 30. Wait for 60 seconds and repeat
+WARNING:root:08:08:43: 429 Too Many Requests. Requests processed since last 429 error: 236. Wait for 60 seconds and repeat
+WARNING:root:08:09:58: 429 Too Many Requests. Requests processed since last 429 error: 34. Wait for 60 seconds and repeat
+WARNING:root:08:11:11: 429 Too Many Requests. Requests processed since last 429 error: 29. Wait for 60 seconds and repeat
+WARNING:root:08:13:14: 500 Internal Server Error. Requests processed since last 500 error: 21609
+WARNING:root:08:13:17: 429 Too Many Requests. Requests processed since last 429 error: 135. Wait for 60 seconds and repeat
+WARNING:root:08:14:31: 429 Too Many Requests. Requests processed since last 429 error: 30. Wait for 60 seconds and repeat
+WARNING:root:08:15:48: 429 Too Many Requests. Requests processed since last 429 error: 34. Wait for 60 seconds and repeat
+WARNING:root:08:17:30: 500 Internal Server Error. Requests processed since last 500 error: 21770
+WARNING:root:08:18:39: 429 Too Many Requests. Requests processed since last 429 error: 245. Wait for 60 seconds and repeat
+WARNING:root:08:20:00: 429 Too Many Requests. Requests processed since last 429 error: 45. Wait for 60 seconds and repeat
+WARNING:root:08:21:01: 500 Internal Server Error. Requests processed since last 500 error: 21971
+WARNING:root:08:22:05: 500 Internal Server Error. Requests processed since last 500 error: 22105
+WARNING:root:08:22:05: 500 Internal Server Error. Requests processed since last 500 error: 22106
+WARNING:root:08:22:06: 500 Internal Server Error. Requests processed since last 500 error: 22107
+WARNING:root:08:22:07: 500 Internal Server Error. Requests processed since last 500 error: 22107
+WARNING:root:08:22:35: 500 Internal Server Error. Requests processed since last 500 error: 22164
+WARNING:root:08:22:36: 500 Internal Server Error. Requests processed since last 500 error: 22166
+WARNING:root:08:23:22: 429 Too Many Requests. Requests processed since last 429 error: 296. Wait for 60 seconds and repeat
+WARNING:root:08:24:26: 500 Internal Server Error. Requests processed since last 500 error: 22272
+WARNING:root:08:24:47: 500 Internal Server Error. Requests processed since last 500 error: 22316
+WARNING:root:08:25:28: 429 Too Many Requests. Requests processed since last 429 error: 145. Wait for 60 seconds and repeat
+WARNING:root:08:27:03: 429 Too Many Requests. Requests processed since last 429 error: 79. Wait for 60 seconds and repeat
+WARNING:root:08:28:05: 500 Internal Server Error. Requests processed since last 500 error: 22491
+WARNING:root:08:28:07: 500 Internal Server Error. Requests processed since last 500 error: 22493
+WARNING:root:08:28:59: 429 Too Many Requests. Requests processed since last 429 error: 125. Wait for 60 seconds and repeat
+WARNING:root:08:30:12: 429 Too Many Requests. Requests processed since last 429 error: 27. Wait for 60 seconds and repeat
+WARNING:root:08:32:40: 500 Internal Server Error. Requests processed since last 500 error: 22829
+WARNING:root:08:32:44: 500 Internal Server Error. Requests processed since last 500 error: 22838
+WARNING:root:08:32:44: 500 Internal Server Error. Requests processed since last 500 error: 22838
+WARNING:root:08:32:44: 500 Internal Server Error. Requests processed since last 500 error: 22838
+WARNING:root:08:33:04: 429 Too Many Requests. Requests processed since last 429 error: 241. Wait for 60 seconds and repeat
+WARNING:root:08:34:17: 500 Internal Server Error. Requests processed since last 500 error: 22905
+WARNING:root:08:34:33: 500 Internal Server Error. Requests processed since last 500 error: 22935
+WARNING:root:08:34:46: 429 Too Many Requests. Requests processed since last 429 error: 81. Wait for 60 seconds and repeat
+WARNING:root:08:35:53: 429 Too Many Requests. Requests processed since last 429 error: 16. Wait for 60 seconds and repeat
+WARNING:root:08:37:17: 429 Too Many Requests. Requests processed since last 429 error: 50. Wait for 60 seconds and repeat
+WARNING:root:08:38:42: 500 Internal Server Error. Requests processed since last 500 error: 23080
+WARNING:root:08:38:50: 500 Internal Server Error. Requests processed since last 500 error: 23099
+WARNING:root:08:38:53: 429 Too Many Requests. Requests processed since last 429 error: 78. Wait for 60 seconds and repeat
+WARNING:root:08:40:12: 500 Internal Server Error. Requests processed since last 500 error: 23147
+WARNING:root:08:40:28: 500 Internal Server Error. Requests processed since last 500 error: 23182
+WARNING:root:08:40:28: 429 Too Many Requests. Requests processed since last 429 error: 77. Wait for 60 seconds and repeat
+WARNING:root:08:42:12: 429 Too Many Requests. Requests processed since last 429 error: 87. Wait for 60 seconds and repeat
+WARNING:root:08:43:13: 429 Too Many Requests. Requests processed since last 429 error: 3. Wait for 60 seconds and repeat
+WARNING:root:08:44:26: 429 Too Many Requests. Requests processed since last 429 error: 28. Wait for 60 seconds and repeat
+WARNING:root:08:45:54: 429 Too Many Requests. Requests processed since last 429 error: 56. Wait for 60 seconds and repeat
+WARNING:root:08:47:09: 429 Too Many Requests. Requests processed since last 429 error: 35. Wait for 60 seconds and repeat
+WARNING:root:08:48:25: 429 Too Many Requests. Requests processed since last 429 error: 29. Wait for 60 seconds and repeat
+WARNING:root:08:49:38: 500 Internal Server Error. Requests processed since last 500 error: 23447
+WARNING:root:08:50:17: 429 Too Many Requests. Requests processed since last 429 error: 115. Wait for 60 seconds and repeat
+WARNING:root:08:52:31: 429 Too Many Requests. Requests processed since last 429 error: 151. Wait for 60 seconds and repeat
+WARNING:root:08:53:36: 429 Too Many Requests. Requests processed since last 429 error: 10. Wait for 60 seconds and repeat
+WARNING:root:08:54:43: 429 Too Many Requests. Requests processed since last 429 error: 14. Wait for 60 seconds and repeat
+WARNING:root:08:56:20: 500 Internal Server Error. Requests processed since last 500 error: 23781
+WARNING:root:08:56:34: 500 Internal Server Error. Requests processed since last 500 error: 23809
+WARNING:root:08:57:05: 429 Too Many Requests. Requests processed since last 429 error: 165. Wait for 60 seconds and repeat
+WARNING:root:08:58:05: 500 Internal Server Error. Requests processed since last 500 error: 23875
+WARNING:root:08:58:16: 500 Internal Server Error. Requests processed since last 500 error: 23898
+WARNING:root:08:58:19: 429 Too Many Requests. Requests processed since last 429 error: 28. Wait for 60 seconds and repeat
+WARNING:root:09:00:27: 500 Internal Server Error. Requests processed since last 500 error: 24041
+WARNING:root:09:00:41: 429 Too Many Requests. Requests processed since last 429 error: 168. Wait for 60 seconds and repeat
+WARNING:root:09:01:53: 500 Internal Server Error. Requests processed since last 500 error: 24097
+WARNING:root:09:01:54: 429 Too Many Requests. Requests processed since last 429 error: 27. Wait for 60 seconds and repeat
+WARNING:root:09:04:14: 429 Too Many Requests. Requests processed since last 429 error: 176. Wait for 60 seconds and repeat
+WARNING:root:09:05:14: 429 Too Many Requests. Requests processed since last 429 error: 0. Wait for 60 seconds and repeat
+WARNING:root:09:06:29: 429 Too Many Requests. Requests processed since last 429 error: 33. Wait for 60 seconds and repeat
+WARNING:root:09:08:51: 429 Too Many Requests. Requests processed since last 429 error: 163. Wait for 60 seconds and repeat
+WARNING:root:09:10:06: 429 Too Many Requests. Requests processed since last 429 error: 30. Wait for 60 seconds and repeat
+WARNING:root:09:11:21: 429 Too Many Requests. Requests processed since last 429 error: 35. Wait for 60 seconds and repeat
+WARNING:root:09:12:21: 429 Too Many Requests. Requests processed since last 429 error: 1. Wait for 60 seconds and repeat
+WARNING:root:09:13:34: 429 Too Many Requests. Requests processed since last 429 error: 27. Wait for 60 seconds and repeat
+WARNING:root:09:14:50: 500 Internal Server Error. Requests processed since last 500 error: 24597
+WARNING:root:09:15:01: 429 Too Many Requests. Requests processed since last 429 error: 56. Wait for 60 seconds and repeat
+WARNING:root:09:16:20: 429 Too Many Requests. Requests processed since last 429 error: 40. Wait for 60 seconds and repeat
+WARNING:root:09:17:35: 429 Too Many Requests. Requests processed since last 429 error: 28. Wait for 60 seconds and repeat
+WARNING:root:09:18:35: 500 Internal Server Error. Requests processed since last 500 error: 24688
+WARNING:root:09:18:49: 429 Too Many Requests. Requests processed since last 429 error: 31. Wait for 60 seconds and repeat
+WARNING:root:09:20:02: 429 Too Many Requests. Requests processed since last 429 error: 30. Wait for 60 seconds and repeat
+WARNING:root:09:21:15: 429 Too Many Requests. Requests processed since last 429 error: 29. Wait for 60 seconds and repeat
+WARNING:root:09:22:28: 429 Too Many Requests. Requests processed since last 429 error: 30. Wait for 60 seconds and repeat
+WARNING:root:09:23:58: 429 Too Many Requests. Requests processed since last 429 error: 64. Wait for 60 seconds and repeat
+WARNING:root:09:25:28: 500 Internal Server Error. Requests processed since last 500 error: 24930
+WARNING:root:09:26:59: 429 Too Many Requests. Requests processed since last 429 error: 252. Wait for 60 seconds and repeat
+WARNING:root:09:28:11: 500 Internal Server Error. Requests processed since last 500 error: 25150
+WARNING:root:09:28:14: 500 Internal Server Error. Requests processed since last 500 error: 25155
+WARNING:root:09:28:15: 500 Internal Server Error. Requests processed since last 500 error: 25155
+WARNING:root:09:28:38: 429 Too Many Requests. Requests processed since last 429 error: 79. Wait for 60 seconds and repeat
+WARNING:root:09:30:15: 429 Too Many Requests. Requests processed since last 429 error: 81. Wait for 60 seconds and repeat
+WARNING:root:09:31:28: 500 Internal Server Error. Requests processed since last 500 error: 25308
+WARNING:root:09:32:00: 429 Too Many Requests. Requests processed since last 429 error: 90. Wait for 60 seconds and repeat
+WARNING:root:09:33:34: 429 Too Many Requests. Requests processed since last 429 error: 78. Wait for 60 seconds and repeat
+WARNING:root:09:34:46: 429 Too Many Requests. Requests processed since last 429 error: 24. Wait for 60 seconds and repeat
+WARNING:root:09:36:08: 500 Internal Server Error. Requests processed since last 500 error: 25523
+WARNING:root:09:36:24: 500 Internal Server Error. Requests processed since last 500 error: 25557
+WARNING:root:09:36:58: 500 Internal Server Error. Requests processed since last 500 error: 25628
+WARNING:root:09:37:03: 429 Too Many Requests. Requests processed since last 429 error: 165. Wait for 60 seconds and repeat
+WARNING:root:09:38:23: 429 Too Many Requests. Requests processed since last 429 error: 31. Wait for 60 seconds and repeat
+WARNING:root:09:39:32: 500 Internal Server Error. Requests processed since last 500 error: 25689
+WARNING:root:09:40:29: 500 Internal Server Error. Requests processed since last 500 error: 25804
+WARNING:root:09:40:37: 500 Internal Server Error. Requests processed since last 500 error: 25822
+WARNING:root:09:41:35: 500 Internal Server Error. Requests processed since last 500 error: 25945
+WARNING:root:09:41:38: 429 Too Many Requests. Requests processed since last 429 error: 281. Wait for 60 seconds and repeat
+WARNING:root:09:42:42: 500 Internal Server Error. Requests processed since last 500 error: 25961
+WARNING:root:09:43:10: 429 Too Many Requests. Requests processed since last 429 error: 75. Wait for 60 seconds and repeat
+WARNING:root:09:44:43: 429 Too Many Requests. Requests processed since last 429 error: 78. Wait for 60 seconds and repeat
+WARNING:root:09:46:16: 429 Too Many Requests. Requests processed since last 429 error: 77. Wait for 60 seconds and repeat
+WARNING:root:09:47:24: 429 Too Many Requests. Requests processed since last 429 error: 13. Wait for 60 seconds and repeat
+WARNING:root:09:48:39: 429 Too Many Requests. Requests processed since last 429 error: 29. Wait for 60 seconds and repeat
+WARNING:root:09:49:51: 429 Too Many Requests. Requests processed since last 429 error: 28. Wait for 60 seconds and repeat
+WARNING:root:09:52:01: 500 Internal Server Error. Requests processed since last 500 error: 26398
+WARNING:root:09:52:01: 500 Internal Server Error. Requests processed since last 500 error: 26399
+WARNING:root:09:52:14: 429 Too Many Requests. Requests processed since last 429 error: 170. Wait for 60 seconds and repeat
+WARNING:root:09:53:26: 429 Too Many Requests. Requests processed since last 429 error: 27. Wait for 60 seconds and repeat
+WARNING:root:09:55:45: 429 Too Many Requests. Requests processed since last 429 error: 175. Wait for 60 seconds and repeat
+WARNING:root:09:56:58: 429 Too Many Requests. Requests processed since last 429 error: 27. Wait for 60 seconds and repeat
+WARNING:root:09:58:14: 429 Too Many Requests. Requests processed since last 429 error: 36. Wait for 60 seconds and repeat
+WARNING:root:09:59:18: 429 Too Many Requests. Requests processed since last 429 error: 5. Wait for 60 seconds and repeat
+WARNING:root:10:00:29: 429 Too Many Requests. Requests processed since last 429 error: 21. Wait for 60 seconds and repeat
+WARNING:root:10:02:02: 429 Too Many Requests. Requests processed since last 429 error: 66. Wait for 60 seconds and repeat
+WARNING:root:10:03:19: 429 Too Many Requests. Requests processed since last 429 error: 31. Wait for 60 seconds and repeat
+WARNING:root:10:04:33: 429 Too Many Requests. Requests processed since last 429 error: 26. Wait for 60 seconds and repeat
+WARNING:root:10:05:46: 429 Too Many Requests. Requests processed since last 429 error: 29. Wait for 60 seconds and repeat
+WARNING:root:10:07:41: 429 Too Many Requests. Requests processed since last 429 error: 118. Wait for 60 seconds and repeat
+WARNING:root:10:08:41: 429 Too Many Requests. Requests processed since last 429 error: 0. Wait for 60 seconds and repeat
+WARNING:root:10:09:55: 429 Too Many Requests. Requests processed since last 429 error: 30. Wait for 60 seconds and repeat
+WARNING:root:10:11:09: 429 Too Many Requests. Requests processed since last 429 error: 30. Wait for 60 seconds and repeat
+WARNING:root:10:12:55: 500 Internal Server Error. Requests processed since last 500 error: 27142
+WARNING:root:10:13:29: 429 Too Many Requests. Requests processed since last 429 error: 163. Wait for 60 seconds and repeat
+WARNING:root:10:14:47: 429 Too Many Requests. Requests processed since last 429 error: 36. Wait for 60 seconds and repeat
+WARNING:root:10:16:16: 429 Too Many Requests. Requests processed since last 429 error: 56. Wait for 60 seconds and repeat
+WARNING:root:10:17:31: 429 Too Many Requests. Requests processed since last 429 error: 33. Wait for 60 seconds and repeat
+WARNING:root:10:19:27: 500 Internal Server Error. Requests processed since last 500 error: 27454
+WARNING:root:10:19:35: 429 Too Many Requests. Requests processed since last 429 error: 139. Wait for 60 seconds and repeat
+WARNING:root:10:20:36: 500 Internal Server Error. Requests processed since last 500 error: 27471
+WARNING:root:10:21:08: 429 Too Many Requests. Requests processed since last 429 error: 63. Wait for 60 seconds and repeat
+WARNING:root:10:22:08: 500 Internal Server Error. Requests processed since last 500 error: 27533
+WARNING:root:10:23:32: 429 Too Many Requests. Requests processed since last 429 error: 166. Wait for 60 seconds and repeat
+WARNING:root:10:24:46: 429 Too Many Requests. Requests processed since last 429 error: 30. Wait for 60 seconds and repeat
+WARNING:root:10:25:57: 500 Internal Server Error. Requests processed since last 500 error: 27755
+WARNING:root:10:26:59: 429 Too Many Requests. Requests processed since last 429 error: 163. Wait for 60 seconds and repeat
+WARNING:root:10:28:01: 500 Internal Server Error. Requests processed since last 500 error: 27896
+WARNING:root:10:28:18: 429 Too Many Requests. Requests processed since last 429 error: 38. Wait for 60 seconds and repeat
+WARNING:root:10:29:59: 500 Internal Server Error. Requests processed since last 500 error: 28013
+WARNING:root:10:31:12: 429 Too Many Requests. Requests processed since last 429 error: 226. Wait for 60 seconds and repeat
+WARNING:root:10:32:18: 500 Internal Server Error. Requests processed since last 500 error: 28169
+WARNING:root:10:32:26: 429 Too Many Requests. Requests processed since last 429 error: 29. Wait for 60 seconds and repeat
+WARNING:root:10:33:40: 429 Too Many Requests. Requests processed since last 429 error: 31. Wait for 60 seconds and repeat
+WARNING:root:10:34:51: 429 Too Many Requests. Requests processed since last 429 error: 27. Wait for 60 seconds and repeat
+WARNING:root:10:36:24: 429 Too Many Requests. Requests processed since last 429 error: 70. Wait for 60 seconds and repeat
+WARNING:root:10:38:41: 500 Internal Server Error. Requests processed since last 500 error: 28465
+WARNING:root:10:38:42: 429 Too Many Requests. Requests processed since last 429 error: 155. Wait for 60 seconds and repeat
+WARNING:root:10:39:59: 429 Too Many Requests. Requests processed since last 429 error: 34. Wait for 60 seconds and repeat
+WARNING:root:10:41:18: 429 Too Many Requests. Requests processed since last 429 error: 41. Wait for 60 seconds and repeat
+WARNING:root:10:42:38: 429 Too Many Requests. Requests processed since last 429 error: 45. Wait for 60 seconds and repeat
+WARNING:root:10:43:38: 500 Internal Server Error. Requests processed since last 500 error: 28588
+WARNING:root:10:43:52: 429 Too Many Requests. Requests processed since last 429 error: 30. Wait for 60 seconds and repeat
+WARNING:root:10:45:08: 429 Too Many Requests. Requests processed since last 429 error: 36. Wait for 60 seconds and repeat
+WARNING:root:10:46:10: 429 Too Many Requests. Requests processed since last 429 error: 3. Wait for 60 seconds and repeat
+WARNING:root:10:47:19: 500 Internal Server Error. Requests processed since last 500 error: 28678
+WARNING:root:10:47:20: 429 Too Many Requests. Requests processed since last 429 error: 23. Wait for 60 seconds and repeat
+WARNING:root:10:48:34: 429 Too Many Requests. Requests processed since last 429 error: 31. Wait for 60 seconds and repeat
+WARNING:root:10:50:16: 500 Internal Server Error. Requests processed since last 500 error: 28797
+WARNING:root:10:50:45: 500 Internal Server Error. Requests processed since last 500 error: 28853
+WARNING:root:10:50:53: 429 Too Many Requests. Requests processed since last 429 error: 157. Wait for 60 seconds and repeat
+WARNING:root:10:52:14: 429 Too Many Requests. Requests processed since last 429 error: 41. Wait for 60 seconds and repeat
+WARNING:root:10:53:18: 500 Internal Server Error. Requests processed since last 500 error: 28917
+WARNING:root:10:54:23: 429 Too Many Requests. Requests processed since last 429 error: 147. Wait for 60 seconds and repeat
+WARNING:root:10:55:36: 500 Internal Server Error. Requests processed since last 500 error: 29086
+WARNING:root:10:55:40: 429 Too Many Requests. Requests processed since last 429 error: 40. Wait for 60 seconds and repeat
+WARNING:root:10:56:49: 429 Too Many Requests. Requests processed since last 429 error: 20. Wait for 60 seconds and repeat
+WARNING:root:10:59:35: 429 Too Many Requests. Requests processed since last 429 error: 234. Wait for 60 seconds and repeat
+WARNING:root:11:00:49: 429 Too Many Requests. Requests processed since last 429 error: 29. Wait for 60 seconds and repeat
+WARNING:root:11:02:03: 429 Too Many Requests. Requests processed since last 429 error: 28. Wait for 60 seconds and repeat
+WARNING:root:11:03:42: 429 Too Many Requests. Requests processed since last 429 error: 82. Wait for 60 seconds and repeat
+WARNING:root:11:06:12: 429 Too Many Requests. Requests processed since last 429 error: 173. Wait for 60 seconds and repeat
+WARNING:root:11:07:27: 429 Too Many Requests. Requests processed since last 429 error: 33. Wait for 60 seconds and repeat
+WARNING:root:11:09:33: 429 Too Many Requests. Requests processed since last 429 error: 154. Wait for 60 seconds and repeat
+WARNING:root:11:10:56: 429 Too Many Requests. Requests processed since last 429 error: 49. Wait for 60 seconds and repeat
+WARNING:root:11:12:10: 429 Too Many Requests. Requests processed since last 429 error: 31. Wait for 60 seconds and repeat
+WARNING:root:11:13:17: 500 Internal Server Error. Requests processed since last 500 error: 29938
+WARNING:root:11:13:43: 429 Too Many Requests. Requests processed since last 429 error: 67. Wait for 60 seconds and repeat
+WARNING:root:11:14:46: 500 Internal Server Error. Requests processed since last 500 error: 30002
+WARNING:root:11:14:47: 500 Internal Server Error. Requests processed since last 500 error: 30005
+WARNING:root:11:15:05: 500 Internal Server Error. Requests processed since last 500 error: 30037
+WARNING:root:11:15:05: 429 Too Many Requests. Requests processed since last 429 error: 41. Wait for 60 seconds and repeat
+WARNING:root:11:16:23: 429 Too Many Requests. Requests processed since last 429 error: 40. Wait for 60 seconds and repeat
+WARNING:root:11:17:38: 429 Too Many Requests. Requests processed since last 429 error: 32. Wait for 60 seconds and repeat
+WARNING:root:11:18:42: 500 Internal Server Error. Requests processed since last 500 error: 30119
+WARNING:root:11:18:46: 500 Internal Server Error. Requests processed since last 500 error: 30128
+WARNING:root:11:19:01: 429 Too Many Requests. Requests processed since last 429 error: 51. Wait for 60 seconds and repeat
+WARNING:root:11:20:13: 429 Too Many Requests. Requests processed since last 429 error: 27. Wait for 60 seconds and repeat
+WARNING:root:11:21:18: 500 Internal Server Error. Requests processed since last 500 error: 30196
+WARNING:root:11:21:34: 500 Internal Server Error. Requests processed since last 500 error: 30231
+WARNING:root:11:22:01: 500 Internal Server Error. Requests processed since last 500 error: 30290
+WARNING:root:11:22:17: 429 Too Many Requests. Requests processed since last 429 error: 135. Wait for 60 seconds and repeat
+WARNING:root:11:23:17: 429 Too Many Requests. Requests processed since last 429 error: 0. Wait for 60 seconds and repeat
+WARNING:root:11:24:32: 429 Too Many Requests. Requests processed since last 429 error: 29. Wait for 60 seconds and repeat
+WARNING:root:11:25:59: 429 Too Many Requests. Requests processed since last 429 error: 58. Wait for 60 seconds and repeat
+WARNING:root:11:27:22: 429 Too Many Requests. Requests processed since last 429 error: 45. Wait for 60 seconds and repeat
+WARNING:root:11:28:34: 429 Too Many Requests. Requests processed since last 429 error: 28. Wait for 60 seconds and repeat
+WARNING:root:11:29:48: 429 Too Many Requests. Requests processed since last 429 error: 28. Wait for 60 seconds and repeat
+WARNING:root:11:31:22: 429 Too Many Requests. Requests processed since last 429 error: 71. Wait for 60 seconds and repeat
+WARNING:root:11:32:48: 500 Internal Server Error. Requests processed since last 500 error: 30636
+WARNING:root:11:33:16: 429 Too Many Requests. Requests processed since last 429 error: 109. Wait for 60 seconds and repeat
+WARNING:root:11:34:44: 429 Too Many Requests. Requests processed since last 429 error: 60. Wait for 60 seconds and repeat
+WARNING:root:11:37:08: 429 Too Many Requests. Requests processed since last 429 error: 181. Wait for 60 seconds and repeat
+WARNING:root:11:38:23: 429 Too Many Requests. Requests processed since last 429 error: 30. Wait for 60 seconds and repeat
+WARNING:root:11:39:41: 429 Too Many Requests. Requests processed since last 429 error: 39. Wait for 60 seconds and repeat
+WARNING:root:11:40:42: 429 Too Many Requests. Requests processed since last 429 error: 3. Wait for 60 seconds and repeat
+WARNING:root:11:41:57: 429 Too Many Requests. Requests processed since last 429 error: 29. Wait for 60 seconds and repeat
+WARNING:root:11:43:12: 429 Too Many Requests. Requests processed since last 429 error: 31. Wait for 60 seconds and repeat
+WARNING:root:11:44:12: 500 Internal Server Error. Requests processed since last 500 error: 31063
+WARNING:root:11:45:20: 500 Internal Server Error. Requests processed since last 500 error: 31196
+WARNING:root:11:45:32: 429 Too Many Requests. Requests processed since last 429 error: 156. Wait for 60 seconds and repeat
+WARNING:root:11:46:50: 429 Too Many Requests. Requests processed since last 429 error: 38. Wait for 60 seconds and repeat
+WARNING:root:11:47:55: 500 Internal Server Error. Requests processed since last 500 error: 31267
+WARNING:root:11:48:51: 500 Internal Server Error. Requests processed since last 500 error: 31382
+WARNING:root:11:49:07: 429 Too Many Requests. Requests processed since last 429 error: 157. Wait for 60 seconds and repeat
+WARNING:root:11:50:24: 429 Too Many Requests. Requests processed since last 429 error: 39. Wait for 60 seconds and repeat
+WARNING:root:11:51:25: 500 Internal Server Error. Requests processed since last 500 error: 31455
+WARNING:root:11:52:41: 429 Too Many Requests. Requests processed since last 429 error: 157. Wait for 60 seconds and repeat
+WARNING:root:11:53:43: 500 Internal Server Error. Requests processed since last 500 error: 31615
+WARNING:root:11:53:53: 500 Internal Server Error. Requests processed since last 500 error: 31635
+WARNING:root:11:53:58: 500 Internal Server Error. Requests processed since last 500 error: 31643
+WARNING:root:11:54:00: 429 Too Many Requests. Requests processed since last 429 error: 37. Wait for 60 seconds and repeat
+WARNING:root:11:55:01: 500 Internal Server Error. Requests processed since last 500 error: 31651
+WARNING:root:11:55:05: 500 Internal Server Error. Requests processed since last 500 error: 31658
+WARNING:root:11:55:10: 500 Internal Server Error. Requests processed since last 500 error: 31669
+WARNING:root:11:55:32: 500 Internal Server Error. Requests processed since last 500 error: 31711
+WARNING:root:11:55:52: 500 Internal Server Error. Requests processed since last 500 error: 31749
+WARNING:root:11:56:51: 429 Too Many Requests. Requests processed since last 429 error: 223. Wait for 60 seconds and repeat
+WARNING:root:11:58:25: 429 Too Many Requests. Requests processed since last 429 error: 67. Wait for 60 seconds and repeat
+WARNING:root:11:59:49: 429 Too Many Requests. Requests processed since last 429 error: 48. Wait for 60 seconds and repeat
+WARNING:root:12:01:04: 429 Too Many Requests. Requests processed since last 429 error: 35. Wait for 60 seconds and repeat
+WARNING:root:12:02:19: 429 Too Many Requests. Requests processed since last 429 error: 30. Wait for 60 seconds and repeat
+WARNING:root:12:05:05: 429 Too Many Requests. Requests processed since last 429 error: 228. Wait for 60 seconds and repeat
+WARNING:root:12:06:21: 429 Too Many Requests. Requests processed since last 429 error: 30. Wait for 60 seconds and repeat
+WARNING:root:12:07:35: 429 Too Many Requests. Requests processed since last 429 error: 28. Wait for 60 seconds and repeat
+WARNING:root:12:08:48: 500 Internal Server Error. Requests processed since last 500 error: 32363
+WARNING:root:12:10:30: 429 Too Many Requests. Requests processed since last 429 error: 230. Wait for 60 seconds and repeat
+WARNING:root:12:11:45: 429 Too Many Requests. Requests processed since last 429 error: 29. Wait for 60 seconds and repeat
+WARNING:root:12:12:59: 429 Too Many Requests. Requests processed since last 429 error: 30. Wait for 60 seconds and repeat
+WARNING:root:12:14:14: 429 Too Many Requests. Requests processed since last 429 error: 28. Wait for 60 seconds and repeat
+WARNING:root:12:15:29: 429 Too Many Requests. Requests processed since last 429 error: 33. Wait for 60 seconds and repeat
+WARNING:root:12:16:42: 429 Too Many Requests. Requests processed since last 429 error: 28. Wait for 60 seconds and repeat
+WARNING:root:12:17:58: 429 Too Many Requests. Requests processed since last 429 error: 30. Wait for 60 seconds and repeat
+WARNING:root:12:19:27: 429 Too Many Requests. Requests processed since last 429 error: 59. Wait for 60 seconds and repeat
+WARNING:root:12:20:41: 429 Too Many Requests. Requests processed since last 429 error: 30. Wait for 60 seconds and repeat
+WARNING:root:12:22:17: 500 Internal Server Error. Requests processed since last 500 error: 32906
+WARNING:root:12:22:52: 429 Too Many Requests. Requests processed since last 429 error: 141. Wait for 60 seconds and repeat
+WARNING:root:12:23:54: 500 Internal Server Error. Requests processed since last 500 error: 32979
+WARNING:root:12:24:00: 429 Too Many Requests. Requests processed since last 429 error: 16. Wait for 60 seconds and repeat
+WARNING:root:12:25:01: 429 Too Many Requests. Requests processed since last 429 error: 1. Wait for 60 seconds and repeat
+WARNING:root:12:26:15: 429 Too Many Requests. Requests processed since last 429 error: 31. Wait for 60 seconds and repeat
+WARNING:root:12:27:29: 429 Too Many Requests. Requests processed since last 429 error: 29. Wait for 60 seconds and repeat
+WARNING:root:12:28:44: 429 Too Many Requests. Requests processed since last 429 error: 31. Wait for 60 seconds and repeat
+WARNING:root:12:31:00: 500 Internal Server Error. Requests processed since last 500 error: 33244
+WARNING:root:12:32:02: 429 Too Many Requests. Requests processed since last 429 error: 290. Wait for 60 seconds and repeat
+WARNING:root:12:33:06: 500 Internal Server Error. Requests processed since last 500 error: 33381
+WARNING:root:12:33:17: 429 Too Many Requests. Requests processed since last 429 error: 29. Wait for 60 seconds and repeat
+WARNING:root:12:35:40: 429 Too Many Requests. Requests processed since last 429 error: 170. Wait for 60 seconds and repeat
+WARNING:root:12:36:55: 429 Too Many Requests. Requests processed since last 429 error: 30. Wait for 60 seconds and repeat
+WARNING:root:12:39:16: 429 Too Many Requests. Requests processed since last 429 error: 167. Wait for 60 seconds and repeat
+WARNING:root:12:40:30: 429 Too Many Requests. Requests processed since last 429 error: 29. Wait for 60 seconds and repeat
+WARNING:root:12:43:20: 429 Too Many Requests. Requests processed since last 429 error: 231. Wait for 60 seconds and repeat
+WARNING:root:12:44:33: 500 Internal Server Error. Requests processed since last 500 error: 34055
+WARNING:root:12:44:45: 429 Too Many Requests. Requests processed since last 429 error: 51. Wait for 60 seconds and repeat
+WARNING:root:12:45:52: 429 Too Many Requests. Requests processed since last 429 error: 15. Wait for 60 seconds and repeat
+WARNING:root:12:46:59: 429 Too Many Requests. Requests processed since last 429 error: 13. Wait for 60 seconds and repeat
+WARNING:root:12:48:00: 500 Internal Server Error. Requests processed since last 500 error: 34109
+WARNING:root:12:48:02: 500 Internal Server Error. Requests processed since last 500 error: 34111
+WARNING:root:12:48:02: 500 Internal Server Error. Requests processed since last 500 error: 34111
+WARNING:root:12:48:05: 500 Internal Server Error. Requests processed since last 500 error: 34118
+WARNING:root:12:48:05: 500 Internal Server Error. Requests processed since last 500 error: 34118
+WARNING:root:12:48:07: 500 Internal Server Error. Requests processed since last 500 error: 34122
+WARNING:root:12:48:10: 500 Internal Server Error. Requests processed since last 500 error: 34125
+WARNING:root:12:48:11: 500 Internal Server Error. Requests processed since last 500 error: 34126
+WARNING:root:12:48:16: 500 Internal Server Error. Requests processed since last 500 error: 34136
+WARNING:root:12:48:16: 500 Internal Server Error. Requests processed since last 500 error: 34136
+WARNING:root:12:48:17: 500 Internal Server Error. Requests processed since last 500 error: 34138
+WARNING:root:12:48:20: 500 Internal Server Error. Requests processed since last 500 error: 34144
+WARNING:root:12:48:23: 429 Too Many Requests. Requests processed since last 429 error: 44. Wait for 60 seconds and repeat
+WARNING:root:12:49:33: 429 Too Many Requests. Requests processed since last 429 error: 20. Wait for 60 seconds and repeat
+WARNING:root:12:50:35: 429 Too Many Requests. Requests processed since last 429 error: 4. Wait for 60 seconds and repeat
+WARNING:root:12:51:47: 429 Too Many Requests. Requests processed since last 429 error: 25. Wait for 60 seconds and repeat
+WARNING:root:12:54:40: 429 Too Many Requests. Requests processed since last 429 error: 230. Wait for 60 seconds and repeat
+WARNING:root:12:55:53: 429 Too Many Requests. Requests processed since last 429 error: 29. Wait for 60 seconds and repeat
+WARNING:root:12:57:07: 429 Too Many Requests. Requests processed since last 429 error: 30. Wait for 60 seconds and repeat
+WARNING:root:12:58:12: 500 Internal Server Error. Requests processed since last 500 error: 34501
+WARNING:root:12:59:06: 429 Too Many Requests. Requests processed since last 429 error: 136. Wait for 60 seconds and repeat
+WARNING:root:13:00:20: 429 Too Many Requests. Requests processed since last 429 error: 29. Wait for 60 seconds and repeat
+WARNING:root:13:01:53: 500 Internal Server Error. Requests processed since last 500 error: 34717
+WARNING:root:13:04:35: 429 Too Many Requests. Requests processed since last 429 error: 384. Wait for 60 seconds and repeat
+WARNING:root:13:05:50: 429 Too Many Requests. Requests processed since last 429 error: 29. Wait for 60 seconds and repeat
+WARNING:root:13:08:15: 500 Internal Server Error. Requests processed since last 500 error: 35233
+WARNING:root:13:08:46: 429 Too Many Requests. Requests processed since last 429 error: 226. Wait for 60 seconds and repeat
+WARNING:root:13:10:15: 429 Too Many Requests. Requests processed since last 429 error: 63. Wait for 60 seconds and repeat
+WARNING:root:13:12:05: 500 Internal Server Error. Requests processed since last 500 error: 35459
+WARNING:root:13:13:07: 429 Too Many Requests. Requests processed since last 429 error: 229. Wait for 60 seconds and repeat
+WARNING:root:13:14:31: 500 Internal Server Error. Requests processed since last 500 error: 35635
+WARNING:root:13:14:57: 429 Too Many Requests. Requests processed since last 429 error: 107. Wait for 60 seconds and repeat
+WARNING:root:13:16:14: 500 Internal Server Error. Requests processed since last 500 error: 35724
+WARNING:root:13:16:27: 429 Too Many Requests. Requests processed since last 429 error: 59. Wait for 60 seconds and repeat
+WARNING:root:13:17:43: 500 Internal Server Error. Requests processed since last 500 error: 35782
+WARNING:root:13:17:53: 500 Internal Server Error. Requests processed since last 500 error: 35806
+WARNING:root:13:18:02: 500 Internal Server Error. Requests processed since last 500 error: 35823
+WARNING:root:13:18:05: 429 Too Many Requests. Requests processed since last 429 error: 79. Wait for 60 seconds and repeat
+WARNING:root:13:19:53: 429 Too Many Requests. Requests processed since last 429 error: 90. Wait for 60 seconds and repeat
+WARNING:root:13:21:38: 429 Too Many Requests. Requests processed since last 429 error: 87. Wait for 60 seconds and repeat
+WARNING:root:13:22:50: 500 Internal Server Error. Requests processed since last 500 error: 36030
+WARNING:root:13:23:01: 500 Internal Server Error. Requests processed since last 500 error: 36050
+WARNING:root:13:23:20: 429 Too Many Requests. Requests processed since last 429 error: 84. Wait for 60 seconds and repeat
+WARNING:root:13:24:29: 500 Internal Server Error. Requests processed since last 500 error: 36107
+WARNING:root:13:24:56: 500 Internal Server Error. Requests processed since last 500 error: 36160
+WARNING:root:13:25:01: 429 Too Many Requests. Requests processed since last 429 error: 81. Wait for 60 seconds and repeat
+WARNING:root:13:26:04: 500 Internal Server Error. Requests processed since last 500 error: 36179
+WARNING:root:13:26:20: 500 Internal Server Error. Requests processed since last 500 error: 36211
+WARNING:root:13:26:40: 429 Too Many Requests. Requests processed since last 429 error: 81. Wait for 60 seconds and repeat
+WARNING:root:13:28:21: 429 Too Many Requests. Requests processed since last 429 error: 84. Wait for 60 seconds and repeat
+WARNING:root:13:29:34: 429 Too Many Requests. Requests processed since last 429 error: 27. Wait for 60 seconds and repeat
+WARNING:root:13:31:51: 429 Too Many Requests. Requests processed since last 429 error: 157. Wait for 60 seconds and repeat
+WARNING:root:13:33:34: 429 Too Many Requests. Requests processed since last 429 error: 86. Wait for 60 seconds and repeat
+WARNING:root:13:35:19: 429 Too Many Requests. Requests processed since last 429 error: 87. Wait for 60 seconds and repeat
+WARNING:root:13:37:13: 429 Too Many Requests. Requests processed since last 429 error: 105. Wait for 60 seconds and repeat
+WARNING:root:13:38:42: 429 Too Many Requests. Requests processed since last 429 error: 58. Wait for 60 seconds and repeat
+WARNING:root:13:40:25: 429 Too Many Requests. Requests processed since last 429 error: 86. Wait for 60 seconds and repeat
+WARNING:root:13:42:10: 429 Too Many Requests. Requests processed since last 429 error: 91. Wait for 60 seconds and repeat
+WARNING:root:13:43:53: 429 Too Many Requests. Requests processed since last 429 error: 86. Wait for 60 seconds and repeat
+WARNING:root:13:45:09: 500 Internal Server Error. Requests processed since last 500 error: 37152
+WARNING:root:13:45:31: 429 Too Many Requests. Requests processed since last 429 error: 71. Wait for 60 seconds and repeat
+WARNING:root:13:46:46: 429 Too Many Requests. Requests processed since last 429 error: 30. Wait for 60 seconds and repeat
+WARNING:root:13:48:00: 429 Too Many Requests. Requests processed since last 429 error: 30. Wait for 60 seconds and repeat
+WARNING:root:13:49:17: 429 Too Many Requests. Requests processed since last 429 error: 41. Wait for 60 seconds and repeat
+WARNING:root:13:50:19: 429 Too Many Requests. Requests processed since last 429 error: 2. Wait for 60 seconds and repeat
+WARNING:root:13:51:32: 429 Too Many Requests. Requests processed since last 429 error: 27. Wait for 60 seconds and repeat
+WARNING:root:13:54:35: 429 Too Many Requests. Requests processed since last 429 error: 240. Wait for 60 seconds and repeat
+WARNING:root:13:57:26: 429 Too Many Requests. Requests processed since last 429 error: 142. Wait for 60 seconds and repeat
+WARNING:root:13:59:06: 500 Internal Server Error. Requests processed since last 500 error: 37788
+WARNING:root:13:59:14: 500 Internal Server Error. Requests processed since last 500 error: 37804
+WARNING:root:13:59:24: 429 Too Many Requests. Requests processed since last 429 error: 125. Wait for 60 seconds and repeat
+WARNING:root:14:00:59: 429 Too Many Requests. Requests processed since last 429 error: 78. Wait for 60 seconds and repeat
+WARNING:root:14:02:31: 429 Too Many Requests. Requests processed since last 429 error: 61. Wait for 60 seconds and repeat
+WARNING:root:14:04:02: 429 Too Many Requests. Requests processed since last 429 error: 59. Wait for 60 seconds and repeat
+WARNING:root:14:05:17: 429 Too Many Requests. Requests processed since last 429 error: 28. Wait for 60 seconds and repeat
+WARNING:root:14:06:34: 429 Too Many Requests. Requests processed since last 429 error: 32. Wait for 60 seconds and repeat
+WARNING:root:14:07:48: 429 Too Many Requests. Requests processed since last 429 error: 28. Wait for 60 seconds and repeat
+WARNING:root:14:10:52: 429 Too Many Requests. Requests processed since last 429 error: 233. Wait for 60 seconds and repeat
+WARNING:root:14:12:02: 429 Too Many Requests. Requests processed since last 429 error: 20. Wait for 60 seconds and repeat
+WARNING:root:14:13:19: 429 Too Many Requests. Requests processed since last 429 error: 35. Wait for 60 seconds and repeat
+WARNING:root:14:14:21: 429 Too Many Requests. Requests processed since last 429 error: 2. Wait for 60 seconds and repeat
+WARNING:root:14:15:35: 429 Too Many Requests. Requests processed since last 429 error: 31. Wait for 60 seconds and repeat
+WARNING:root:14:17:34: 500 Internal Server Error. Requests processed since last 500 error: 38551
+WARNING:root:14:18:36: 429 Too Many Requests. Requests processed since last 429 error: 233. Wait for 60 seconds and repeat
+WARNING:root:14:19:41: 429 Too Many Requests. Requests processed since last 429 error: 8. Wait for 60 seconds and repeat
+WARNING:root:14:20:56: 429 Too Many Requests. Requests processed since last 429 error: 30. Wait for 60 seconds and repeat
+WARNING:root:14:23:04: 500 Internal Server Error. Requests processed since last 500 error: 38842
+WARNING:root:14:25:11: 429 Too Many Requests. Requests processed since last 429 error: 394. Wait for 60 seconds and repeat
+WARNING:root:14:27:00: 429 Too Many Requests. Requests processed since last 429 error: 100. Wait for 60 seconds and repeat
+WARNING:root:14:28:46: 429 Too Many Requests. Requests processed since last 429 error: 89. Wait for 60 seconds and repeat
+WARNING:root:14:30:22: 429 Too Many Requests. Requests processed since last 429 error: 70. Wait for 60 seconds and repeat
+WARNING:root:14:31:57: 429 Too Many Requests. Requests processed since last 429 error: 67. Wait for 60 seconds and repeat
+WARNING:root:14:33:11: 429 Too Many Requests. Requests processed since last 429 error: 29. Wait for 60 seconds and repeat
+WARNING:root:14:34:24: 429 Too Many Requests. Requests processed since last 429 error: 28. Wait for 60 seconds and repeat
+WARNING:root:14:35:38: 429 Too Many Requests. Requests processed since last 429 error: 31. Wait for 60 seconds and repeat
+WARNING:root:14:37:33: 500 Internal Server Error. Requests processed since last 500 error: 39624
+WARNING:root:14:37:52: 429 Too Many Requests. Requests processed since last 429 error: 145. Wait for 60 seconds and repeat
+WARNING:root:14:39:07: 429 Too Many Requests. Requests processed since last 429 error: 30. Wait for 60 seconds and repeat
+WARNING:root:14:40:18: 500 Internal Server Error. Requests processed since last 500 error: 39709
+WARNING:root:14:40:23: 429 Too Many Requests. Requests processed since last 429 error: 28. Wait for 60 seconds and repeat
+WARNING:root:14:41:38: 429 Too Many Requests. Requests processed since last 429 error: 31. Wait for 60 seconds and repeat
